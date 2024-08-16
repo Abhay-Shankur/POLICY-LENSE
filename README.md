@@ -28,7 +28,7 @@ The Movie Review Application is a frontend interface developed in React that all
 
 2. Navigate to the project directory:
    ```bash
-   cd movie-review-app
+   cd POLICY-LENSE
    ```
 
 3. Install the dependencies:
